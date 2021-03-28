@@ -4,13 +4,45 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## All my Repositories
-### Papper IT721
-Team project for the IT721 Papper. I am a developer in the team. It is a web application. It includes front-end and back-end parts. The front-end will be developed by Angular. The back-end will be developed by ASP.NET Core 5.x.
+## My Repositories
+### IT721 Software Engineering
+Team project for the IT721 Papper. I am still working on this project as a developer. The front-end will be developed by Angular. The back-end API will be developed by ASP.NET Core 5.x.
 
 [Front-end](https://github.com/CarlLeePhp/sharing-app)
-
 [Back-end API](https://github.com/CarlLeePhp/Sharing-API)
+
+### IT722 Algorithims and Problem Solving
+
+A Flutter application used for submiting current location to a web API. The web API was created by the tutor.
+[Trip Logs](https://github.com/CarlLeePhp/it722_trip_logs)
+
+Labs done for this papper.
+[IT722 Labs](https://github.com/CarlLeePhp/IT722)
+
+### IT705 Human Computer Interaction
+[IT705 Vue.js Labs](https://github.com/CarlLeePhp/IT705Vue)
+
+### IT607 Advanced Programming
+A card game project for this papper. It is writen by C#.
+[Crazy Eights](https://github.com/CarlLeePhp/IT705Vue)
+
+### IT608 Game Development I
+[Platform Game Lab](https://github.com/CarlLeePhp/608Project)
+
+
+### IT601 Project Management
+A whole semester team project. It is a web application. Vue.js and CI (a PHP framework) were implemented in this project.
+[Year 2 Project](https://github.com/CarlLeePhp/601Project)
+
+### IT509 Web applications Implementation
+It is a team project for this papper.
+[IT509 Web Site](https://github.com/CarlLeePhp/509_WebProject)
+
+### React Practices
+
+Project 2 of Raact from front to end.
+[Contacts keeper Front-end](https://github.com/CarlLeePhp/contacts-keeper)
+
 
 <!---
 CarlLeePhp/CarlLeePhp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
