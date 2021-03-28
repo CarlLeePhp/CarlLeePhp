@@ -41,7 +41,7 @@ It is a team project for this papper.
 ### React Practices
 
 Project 2 of Raact from front to end.
-[Contacts keeper Front-end](https://github.com/CarlLeePhp/contacts-keeper)
+[Contacts keeper](https://github.com/CarlLeePhp/contacts-keeper)
 
 
 <!---
