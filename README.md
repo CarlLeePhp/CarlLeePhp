@@ -29,7 +29,7 @@ Labs done for this papper.
 
 ### IT607 Advanced Programming
 A card game project for this papper. It is writen by C#.
-[Crazy Eights](https://github.com/CarlLeePhp/IT705Vue)
+[Crazy Eights](https://github.com/CarlLeePhp/CrazyEights)
 
 ### IT608 Game Development I
 [Platform Game Lab](https://github.com/CarlLeePhp/608Project)
