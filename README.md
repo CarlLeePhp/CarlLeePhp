@@ -1,15 +1,20 @@
 - 👋 Hi, I’m @CarlLeePhp
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning IT at SIT in New Zealand.
+- 🌱 I’m graduated from SIT in New Zealand.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 ## My Repositories
+
+### IT601 Project Management
+A whole semester team project. It is a web application. Vue.js and CI (a PHP framework) were implemented in this project.
+[Year 2 Project](https://github.com/CarlLeePhp/601Project)
+
 ### IT721 Software Engineering
-Team project for the IT721 Papper. I am still working on this project as a developer. The front-end will be developed by Angular. The back-end API will be developed by ASP.NET Core 5.x.
+Team project for the IT721 Papper. I am still working on this project as a developer. The front-end will be developed by Angular. The back-end API will be developed by ASP.NET Core 5.x. The back-end API is deployed to Azure App Service.
 
 [Front-end](https://github.com/CarlLeePhp/sharing-app)
-[Back-end API](https://github.com/CarlLeePhp/Sharing-API)
+
 
 ### IT722 Algorithims and Problem Solving
 
@@ -30,17 +35,14 @@ A card game project for this papper. It is writen by C#.
 [Platform Game Lab](https://github.com/CarlLeePhp/608Project)
 
 
-### IT601 Project Management
-A whole semester team project. It is a web application. Vue.js and CI (a PHP framework) were implemented in this project.
-[Year 2 Project](https://github.com/CarlLeePhp/601Project)
-
 ### IT509 Web applications Implementation
 It is a team project for this papper.
 [IT509 Web Site](https://github.com/CarlLeePhp/509_WebProject)
 
+
 ### React Practices
 
-Project 2 of Raact from front to end.
+Project 2 of React from front to end.
 [Contacts keeper](https://github.com/CarlLeePhp/contacts-keeper)
 
 
