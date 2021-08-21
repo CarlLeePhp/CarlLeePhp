@@ -18,7 +18,7 @@ A whole semester team project. It is a web application. Vue.js and CI (a PHP fra
 
 
 ### IT721 Software Engineering
-Team project for the IT721 Papper. I was working on this project as a developer. The front-end will be developed by Angular. The back-end API will be developed by ASP.NET Core 5.x. The back-end API is deployed to Azure App Service.
+Team project for the IT721 Papper. I was working on this project as a developer. The front-end was developed by Angular. The back-end API was developed by ASP.NET Core 5.x.
 
 [ASP.Net Core API](https://github.com/CarlLeePhp/sharing-api)
 
